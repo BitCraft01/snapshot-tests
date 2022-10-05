@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="Eren_Yeager.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Eren Yeager
+      </div>
+      <p
+        className="card-text"
+      >
+        I am Eren Yeager and what I seek is absolute dominance.
+      </p>
+    </div>
+  </div>
+</div>
+`;
